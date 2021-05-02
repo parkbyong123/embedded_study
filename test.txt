@@ -1,3 +1,7 @@
 git test
 
+<<<<<<< .merge_file_a10332
 second test
+=======
+ssssssssssssssssssssssssssssss
+>>>>>>> .merge_file_a04116
